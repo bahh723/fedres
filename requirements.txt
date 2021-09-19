@@ -1,0 +1,33 @@
+absl-py @ file:///tmp/build/80754af9/absl-py_1600297512717/work
+astor==0.8.1
+certifi==2020.11.8
+cycler==0.10.0
+gast @ file:///tmp/build/80754af9/gast_1597433534803/work
+grpcio @ file:///tmp/build/80754af9/grpcio_1597424460877/work
+h5py==2.8.0
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
+joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing==1.1.0
+kiwisolver==1.2.0
+Markdown @ file:///tmp/build/80754af9/markdown_1602689103153/work
+matplotlib @ file:///tmp/build/80754af9/matplotlib-base_1597876339545/work
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy==1.16.4
+olefile==0.46
+Pillow @ file:///tmp/build/80754af9/pillow_1602788709045/work
+protobuf==3.13.0
+pyparsing==2.4.7
+python-dateutil==2.8.1
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1598379690588/work
+scipy @ file:///tmp/build/80754af9/scipy_1597686625380/work
+six==1.15.0
+tensorboard==1.11.0
+tensorflow==1.11.0
+termcolor==1.1.0
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+tornado==6.0.4
+Werkzeug==1.0.1
+zipp @ file:///tmp/build/80754af9/zipp_1602002379921/work
